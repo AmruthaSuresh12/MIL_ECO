@@ -153,7 +153,7 @@ mil-echo-root/
 | **Web Client Application** | Vercel | [https://mil-echo.vercel.app](https://mil-echo.vercel.app) | 🟢 Operational |
 | **AI Microservice API** | Render | [https://mil-echo.onrender.com](https://mil-echo.onrender.com) | 🟢 Operational |
 | **API Health Check** | Render | [https://mil-echo.onrender.com/health](https://mil-echo.onrender.com/health) | 🟢 Healthy |
-| **GitHub Repository** | GitHub | [https://github.com/Ruchit0807/MIL-ECHO](https://github.com/Ruchit0807/MIL-ECHO) | 🐙 Maintained |
+| **GitHub Repository** | GitHub | [https://github.com/AmruthaSuresh12/MIL_ECO](https://github.com/AmruthaSuresh12/MIL_ECO) | 🐙 Maintained |
 
 ---
 
@@ -262,7 +262,7 @@ npm run dev
 ## 📬 Contact & Support
 
 - **Project Lead / Support**: [milecho0812@gmail.com](mailto:milecho0812@gmail.com)
-- **UNESCO Youth Hackathon 2026 Project Repository**: [GitHub - Ruchit0807/MIL-ECHO](https://github.com/Ruchit0807/MIL-ECHO)
+- **UNESCO Youth Hackathon 2026 Project Repository**: [https://github.com/AmruthaSuresh12/MIL_ECO](https://github.com/AmruthaSuresh12/MIL_ECO)
 
 ---
 
