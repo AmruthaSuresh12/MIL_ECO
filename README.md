@@ -165,7 +165,7 @@ mil-echo-root/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Ruchit0807/MIL-ECHO.git
+git clone https://github.com/AmruthaSuresh12/MIL_ECO.git
 cd MIL-ECHO
 ```
 
