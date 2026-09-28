@@ -13,7 +13,7 @@
 [![Live Web App](https://img.shields.io/badge/Live%20App-mil--echo.vercel.app-00F5D4?style=for-the-badge&logo=vercel&logoColor=black)](https://mil-echo.vercel.app/)
 [![API Backend](https://img.shields.io/badge/API%20Status-Online%20(Render)-0070F3?style=for-the-badge&logo=render&logoColor=white)](https://mil-echo.onrender.com/health)
 [![License](https://img.shields.io/badge/License-MIT-FF007A?style=for-the-badge)](LICENSE)
-[![Hackathon](https://img.shields.io/badge/UNESCO-Youth%20Hackathon%202026-7B2CBF?style=for-the-badge)](https://github.com/Ruchit0807/MIL-ECHO)
+<!-- [![Hackathon](https://img.shields.io/badge/UNESCO-Youth%20Hackathon%202026-7B2CBF?style=for-the-badge)](https://github.com/Ruchit0807/MIL-ECHO) --
 
 ---
 
@@ -262,7 +262,7 @@ npm run dev
 ## 📬 Contact & Support
 
 - **Project Lead / Support**: [milecho0812@gmail.com](mailto:milecho0812@gmail.com)
-- **UNESCO Youth Hackathon 2026 Project Repository**: [https://github.com/AmruthaSuresh12/MIL_ECO](https://github.com/AmruthaSuresh12/MIL_ECO)
+- **Project Repository**: [https://github.com/AmruthaSuresh12/MIL_ECO](https://github.com/AmruthaSuresh12/MIL_ECO)
 
 ---
 
