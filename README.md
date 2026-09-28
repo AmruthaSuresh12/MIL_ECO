@@ -22,7 +22,7 @@
 
 [![MIL ECHO Video Tutorial Guide](https://img.youtube.com/vi/Z0CzOlkPQGY/maxresdefault.jpg)](https://youtu.be/Z0CzOlkPQGY "Watch MIL ECHO Video Guide")
 
-> 💡 **Watch the 60-Second Video Tutorial**: [Click here to watch on YouTube](https://youtu.be/Z0CzOlkPQGY)
+> 💡 **Watch the Video Tutorial**: [Click here to watch on YouTube](https://youtu.be/Z0CzOlkPQGY)
 
 <!-- 
 ===================================================================
@@ -40,7 +40,7 @@ Uncomment and replace the video URL below when uploading your MP4/WebM video:
 
 In an era dominated by rapid information streams, viral algorithms, and synthetic AI content, youth face an unprecedented flood of unverified news and deepfakes. **MIL ECHO** bridges the gap between digital entertainment and educational prebunking.
 
-Built for the **UNESCO Youth Hackathon 2026**, MIL ECHO turns critical thinking into a high-stakes multiplayer arena. Players learn to analyze incoming media, identify emotional triggers and biases, collaborate with a **Socratic AI Prebunking Copilot**, and protect their community from descending into systemic misinformation **CHAOS**.
+MIL ECHO turns critical thinking into a high-stakes multiplayer arena. Players learn to analyze incoming media, identify emotional triggers and biases, collaborate with a **Socratic AI Prebunking Copilot**, and protect their community from descending into systemic misinformation **CHAOS**.
 
 ---
 
@@ -86,7 +86,7 @@ When holding a highly prejudiced or controversial card, players can trigger a **
 
 - 🎮 **Real-Time Synchronized Engine**: Fast WebSocket state synchronization powered by FastAPI handles room creation (2–6 players), turn switching, real-time chats, and win checks.
 - 🧠 **3C2B Socratic AI Prebunking Copilot**: Powered by **Mistral AI (`mistral-small-2603`)** with **Gemini 2.5 Flash** fallback & **Tavily Web Search**. Analyzes headlines using Creator, Content, Context, Bias, and Business/Behavior metrics. *Guides users with reflective questions rather than plain True/False answers.*
-- 🧩 **Chrome Extension Companion**: A Manifest V3 Chrome Extension (`apps/browser-extension`) allowing users to capture live web headlines while browsing and push them into their in-game Extension Inbox deck.
+- 🧩 **Chrome Extension Companion**: A Manifest V3 Chrome Extension (`apps/browser-extension`) allowing users to capture live web headlines while browsing and push them into their in-game Extension Inbox deck[UPCOMING].
 - 🖨️ **Printable Offline PDF Deck Generator**: Includes a Python PDF generator script (`packages/pdf-generator`) powered by ReportLab to export physical card decks for offline classroom sessions in low-connectivity areas.
 - 🎨 **Neo-Brutalist High-Impact UI**: Responsive, accessible web design built with Next.js 14, Tailwind CSS, Framer Motion, and custom retro-cyber theme tokens.
 
@@ -269,6 +269,6 @@ npm run dev
 <div align="center">
 
 Distributed under the **MIT License**.  
-**MIL ECHO • UNESCO Youth Hackathon 2026**
+**MIL ECHO**
 
 </div>
